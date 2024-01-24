@@ -22,9 +22,13 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 <h2>Post-Install Configuration Objectives</h2>
 
-Configure aspects of osTicket
+Configure aspects of osTicket ticketing system
 <h2>Configuration Steps</h2>
 <p>
 </p>
 
 ![Screenshot 2024-01-24 171629](https://github.com/boluadunbarin/post-install-config/assets/157642328/a0e791e4-3945-40f5-a7f7-0455c45dbb6a)
+
+![Screenshot 2024-01-24 183043](https://github.com/boluadunbarin/post-install-config/assets/157642328/4a669dcb-fa9d-41cb-a94f-3b069793bab3)
+
+![Screenshot 2024-01-24 183640](https://github.com/boluadunbarin/post-install-config/assets/157642328/175f0684-f5f0-43c1-9865-8206cbbb0957)
